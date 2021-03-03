@@ -1,4 +1,5 @@
-#new work {
+#new work #include <stdio.h>
+{
 int main()
 int n1, n2,a;
 printf("Please inter the numbers to find the Perimeter of the rectangle & square:");
