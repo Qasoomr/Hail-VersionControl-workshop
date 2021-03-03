@@ -1,6 +1,7 @@
+#include <stdio.h>
 int  main (){
    char str[10];
    printf("Enter name:");
    scanf("%s", str1);
-   printf("your  name is to great: %s\n", str);
+   printf("your name is great: %s\n", str);
 }
