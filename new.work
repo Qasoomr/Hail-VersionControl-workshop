@@ -1,0 +1,8 @@
+#new work {
+int main()
+int n1, n2,a;
+printf("Please inter the numbers to find the Perimeter of the rectangle & square:");
+scanf("%d %d",&n1, &n2);
+a=2*n1+2*n2;
+printf("the Perimeter equel to:",a);
+}
