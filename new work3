@@ -1,7 +1,8 @@
+#include <stdio.h>
 int main()
 int r,a;
 printf("Please inter the radius of circle to get the area :");
 scanf("%f,&r);
 a=3.14*(r^2);
-printf("the Parea of the circle equel to:",a);
+printf("the Parea of the circle equel to: %d",a);
 }
