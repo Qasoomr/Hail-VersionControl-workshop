@@ -1,0 +1,8 @@
+int main() {
+int b,h,a;
+printf("please enter the base and hight to get the area");
+scanf("%d %d",&b,&h);
+a=b*h;
+printf("the area equel to:",a);
+
+}
